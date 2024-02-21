@@ -1,0 +1,1 @@
+# QuickSMPPTester.SMSC.ConsoleApp.CSharp
